@@ -1,0 +1,16 @@
+label{
+    display: block;
+}
+fieldset{
+    width: 100px;
+}
+p{
+    margin: 0;
+}
+.input-error {
+border-color: red;
+}
+
+.input-error-message {
+color: red;
+}
